@@ -1,0 +1,4 @@
+# Packages needed for development
+# These should probably NOT be in setup.py install_requires.
+setuptools
+pytest
