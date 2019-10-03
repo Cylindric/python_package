@@ -1,3 +1,4 @@
 class ComponentB(object):
-    def bar(self):
+    @staticmethod
+    def bar():
         print("I am ComponentB.bar()")

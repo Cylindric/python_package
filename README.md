@@ -2,15 +2,15 @@
 
 ## Things to have in a package
 
-* README.md
-* requirements.txt
-* setup.py
-* example_service/ directory
-* example_service/example.py
-* example_service/example_cli.py (optional, if you need a CLI wrapper)
-* example_service/tests/ directory
-* example_service/tests/__init__.py
-* example_service/tests/test_*.py
+* `README.md`
+* `requirements.txt`
+* `setup.py`
+* `example_service/`` directory
+* `example_service/example.py`
+* `example_service/example_cli.py` (optional, if you need a CLI wrapper)
+* `example_service/tests/`` directory
+* `example_service/tests/\_\_init\_\_.py`
+* `example_service/tests/test_*.py`
 
 ## Things to test in a packages
 

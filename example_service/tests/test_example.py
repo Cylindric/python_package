@@ -1,4 +1,4 @@
-from example import Example
+from example_service.example import Example
 
 
 class TestExample(object):
