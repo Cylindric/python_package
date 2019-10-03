@@ -7,11 +7,11 @@ setup(
     name="example_service",
     version="0.0.1",
     author="Mark Hanford",
-    author_email="mhanford@ukcloud.com",
+    author_email="mark@hanfordonline.co.uk",
     description="A small package to demonstrate python packages",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://bitbucket.il2management.local/projects/mp/repos/",
+    url="https://github.com/Cylindric/python_package",
     packages=["example_service"],
     entry_points={
         'console_scripts': [
